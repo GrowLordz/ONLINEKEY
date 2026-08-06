@@ -1,7 +1,7 @@
 {
   "name": "grow-key-server",
-  "version": "1.0.0",
-  "description": "Grow Mod Key Validation Server — SQLite backend",
+  "version": "2.1.0",
+  "description": "Grow Mod Key Validation Server — sql.js SQLite backend",
   "type": "module",
   "scripts": {
     "dev": "vercel dev"
